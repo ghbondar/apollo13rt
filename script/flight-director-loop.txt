@@ -2423,10 +2423,10 @@ The crew reported he got barber pole whenever he threw the reactant switch, so t
 Okay, now the next question is: are you willing to do that on FUEL CELL number 1?
 
 [57 07 42 - 57 07 46] EECOM
-That's the question we're pondering, FLIGHT. We've got to come up with an answer on that one.
+That's the question we're pondering, FLIGHT. We've got to come up with an answer on that one. Soon.
 
 [57 07 47 - 57 07 49] FLIGHT
-Soon. FUEL CELL 2 is working okay.
+FUEL CELL 2 is working okay.
 
 [57 07 49] EECOM
 That's affirmative.
@@ -2505,7 +2505,7 @@ Roger, FLIGHT.
 No rate damping, then, right?
 
 [57 09 22] GNC
-Roger.
+Right.
 
 [57 09 24 - 57 09 26] FLIGHT
 Are both BMAG packages off?
