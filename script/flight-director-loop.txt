@@ -234,6 +234,8 @@ Go, GUIDANCE.
 [55 54 43 - 55 54 54] GUIDO
 As long as he's in P00 and don't reselect it, he can uplink it - enter it himself or we can do it easier. Doesn't matter.
 
+[55 54 54] Burst of static indicates when the panel from the SM, dislodged by the explosion, struck the high-gain antenna and momentarily disrupted communications with the ground. This resulted in the reliance on the wide-band OMNI antennas until power was reestablished on the AC2-bus.
+
 [55 54 57 -] FLIGHT
 Okay. Why don't - you gotta pass the data for the crew checklist anyway on-board, don't you?
 
