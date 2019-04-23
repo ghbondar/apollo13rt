@@ -313,7 +313,7 @@ Go, INCO.
 
 [55 56 09 - 55 56 11] INCO
 We switched to WIDE BEAM width about the time we had the problem.
-> A red herring, but a believable one if the problem were instrumentation or telemetry.
+> Caused by the panel, ejected from the SM by the explosion, impacting the HIGH GAIN antenna and knocking it out of alignment. Communications reverted to using the OMNI antennas in WIDE BEAM mode.
 
 [55 56 33] FLIGHT
 Okay.
