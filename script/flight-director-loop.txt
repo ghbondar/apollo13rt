@@ -133,9 +133,8 @@ You've got 40 amp-hours back in battery B now.
 [55 50 37] FLIGHT
 Okay.
 
-[55 50 42] EECOM
+[55 50 42] GNC
 You got it, FLIGHT.
-> Possibly in response to seeing BAT B charge disabled.
 
 [55 50 43] FLIGHT
 Okay.
